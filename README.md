@@ -1,4 +1,4 @@
-My name is Antoni Janowski. I am a 4th year student at Machine Learning masters program at the University of Warsaw. 
+My name is Antoni Janowski. I am a final year student at Machine Learning masters program at the University of Warsaw. 
 I have a bachelor in Mathematics and I am greatly interested in deep learning. 
 If you would like to contact me, write to me at my LinkedIn: https://www.linkedin.com/in/antoni-janowski-9b2614253/
 
